@@ -1,22 +1,22 @@
 /**
- * Om Machine Tools — Master Data Model
- * Ahmedabad, Gujarat, India
+ * Om machine Tools — Master Data Model
+ * Faridabad, Haryana, India
  */
 
 export const COMPANY = {
-  name: "Om Machine Tools",
-  tagline: "Manufacturer & Engineering Works",
+  name: "Om machine Tools",
+  tagline: "Electronics store & Engineering Works",
   established: 2008,
   yearsInOperation: "18+",
   proprietor: "Management Team & Works Director",
-  gst: "24AAACG1092F1ZK",
-  phoneDisplay: "+91 98256 75715",
-  phoneRaw: "+919825675715",
-  waNumber: "919825675715",
+  gst: "06AAACG1092F1ZK",
+  phoneDisplay: "+91 98156 40781",
+  phoneRaw: "+919815640781",
+  waNumber: "919815640781",
   email: "contact@ommachinetools.in",
-  address: "L-622/2, GIDC, Odhav, Ahmedabad, Gujarat 382415, India",
-  addressShort: "Ahmedabad, Gujarat",
-  coordinates: "23.0225° N, 72.5714° E",
+  address: "sector-4 prem nagar near police station,Shop no-1 faridabad, Haryana 121006, India",
+  addressShort: "Faridabad, Haryana",
+  coordinates: "28.4089\u00b0 N, 77.3178\u00b0 E",
   businessType: "Manufacturer · Supplier · Industrial Services",
   teamSize: "20+",
   compliance: "ISO 9001:2015 Compliant Industrial Facility",
